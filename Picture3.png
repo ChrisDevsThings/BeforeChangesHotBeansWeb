@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Hot Beans Web</title>
+    <link rel="stylesheet" href="/design/styles.css">
+    <meta name="description" content="Hot Beans Web">
+</head>
+<body>
+    <header class="site-header">
+        <nav class="navbar container" role="navigation" aria-label="Main navigation">
+            <div class="brand"><a href="index.html">Hot Beans Web</a></div>
+            <ul class="nav-links">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="/pages/about.html">About Us</a></li>
+                <li><a href="/pages/apply.html">Join Our Team</a></li>
+                 <li><a href="/pages/employees.html">Our Employees</a></li>
+                <li><a href="/pages/courses.html">Courses</a></li>
+                <li><a href="/pages/contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+        <div class="hero" id="home">
+            <div class="container hero-content">
+                <h1>Welcome to Hot Beans Web!</h1>
+                <p class="lead">This Homepage Of Hot Beans Web Is Designed To Help You Find The Right Career In Web Development.</p>
+                <a class="btn" href="/pages/about.html">Find Out More</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="aboutus" class="container section">
+            <h2>A Warm Introduction to Hot Beans Web:</h2>
+            <p>At Hot Beans Web, we are passionate at helping qualified people who are intrested in Web Developmment, to find career opportunities in the field.</p>
+            <p>Our mission is to help employees and employers find the right fit for their needs.</p>
+            <p>Services That We Offer Here At Hot Beans Web Include:</p>
+                <ul>
+                    <li>Finding Web Development Jobs</li>
+                    <li>Providing Guidance On Getting Started In Web Development</li>
+                    <li>Joining Our Web Development Team</li>
+                    <li>Providing Courses On Web Development</li>
+                    <li>And Much More!</li>
+                </ul>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 Hot Beans Web — All rights reserved.</p>
+            <nav class="footer-nav" aria-label="Footer navigation">
+                    <a href="../index.html">Home</a>
+                    <a href="/pages/about.html">About Us</a>
+                    <a href="/pages/apply.html">Join Our Team</a>
+                    <a href="/pages/employees.html">Our Employees</a>
+                    <a href="/pages/courses.html">Courses</a>
+                    <a href="/script/scripts.js">Contact Us</a>
+            </nav>
+        </div>
+    </footer>
+
+    <script src="/script/scripts.js"></script>
+</body>
+</html>
