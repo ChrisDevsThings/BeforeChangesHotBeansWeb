@@ -54,7 +54,7 @@ body{
 
 /* Hero */
 .hero{
-    background: linear-gradient(180deg, rgba(107,63,46,0.9), rgba(106,63,46,0.55)), href="yes.jpg" center/cover no-repeat;
+    background: linear-gradient(180deg, rgba(107,63,46,0.9), rgba(106,63,46,0.55)), href="/design/yes.jpg" center/cover no-repeat;
     color: #fff;
     padding: 6rem 0 4rem;
 }
